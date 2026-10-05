@@ -1,0 +1,6 @@
+.chatbot/
+.chatbot
+chatbot/
+**/site-packages/
+__pycache__/
+*.pyc
